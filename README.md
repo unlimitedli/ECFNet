@@ -7,6 +7,6 @@ This paper presents a novel monocular depth estimation method, named ECFNet, for
 Driven by this analysis, we propose to explicitly employ the image edges as input for ECFNet and fuse the initial depths from different sources to produce the final depth.
 ## Video Demonstration
 
-![ECFNet Video](sample/sample.mp4)
+![ECFNet Video](sample/gif_720.gif)
 
 ---
